@@ -74,7 +74,7 @@ Revisão sobre a linguagem Java
     * Obter um valor inteiro
     * Obter um valor decimal
     * Obter um valor de texto 
-* Fluxo de Controle
+* 8. [Fluxo de Controle](08.md)
   * Estruturas de Decisões
     * if-else-then
     * switch
@@ -83,7 +83,7 @@ Revisão sobre a linguagem Java
     * while
     * do-while 
     * Comandos break e continue
-* Arranjos e Matrizes
+* 9. [Arranjos e Matrizes](09.md)
   * Definição matemática
   * Declaração de arranjos
   * Declaração de matrizes
@@ -94,7 +94,7 @@ Revisão sobre a linguagem Java
     * Em diagonal 
   * Utilizar arranjos e matrizes como parâmetros de métodos 
   * Utilizar arranjos e matrizes como retorno de métodos 
-* Tratamento de Exceções
+* 10. Tratamento de Exceções
   * Definição
   * Exceções comuns
     * Divisão por zero
@@ -105,7 +105,7 @@ Revisão sobre a linguagem Java
   * Bloco para capturar diferentes exceções 
   * Bloco finally
   * Lançar uma exceção
-* Métodos estáticos
+* 11. Métodos estáticos
   * Estrutura de declaração de um método estático
   * Nomes válidos e boas práticas 
   * Parâmetros 
@@ -114,7 +114,7 @@ Revisão sobre a linguagem Java
     * Disponíveis na mesma classe
     * Disponíveis em outra classe/arquivo. 
   * Recursão 
-* Classe
+* 12. Classe
   * Definição
     * Representação de classe e objeto na UML
     * Diferença entre classe e objeto
@@ -131,7 +131,7 @@ Revisão sobre a linguagem Java
     * Privado 
   * Sobrecarga de métodos
   * Sobrecarga de construtores
-* Pacotes 
+* 13. Pacotes 
   * Definição
      * Representação de pacotes na UML
   * Definição de um pacote em uma classe
