@@ -94,7 +94,7 @@ Revisão sobre a linguagem Java
     * Em diagonal 
   * Utilizar arranjos e matrizes como parâmetros de métodos 
   * Utilizar arranjos e matrizes como retorno de métodos 
-*  [Tratamento de Exceções](10.md)
+*    [Tratamento de Exceções](10.md)
   * Definição
   * Exceções comuns
     * Divisão por zero
@@ -105,7 +105,7 @@ Revisão sobre a linguagem Java
   * Bloco para capturar diferentes exceções 
   * Bloco finally
   * Lançar uma exceção
-*  [Métodos estáticos] (11.md)
+*    [Métodos estáticos] (11.md)
   * Estrutura de declaração de um método estático
   * Nomes válidos e boas práticas 
   * Parâmetros 
@@ -113,7 +113,7 @@ Revisão sobre a linguagem Java
   * Utilização de métodos estáticos 
     * Disponíveis na mesma classe
     * Disponíveis em outra classe/arquivo. 
-  * Recursão 
+  *  Recursão 
 *  Classe
   * Definição
     * Representação de classe e objeto na UML
