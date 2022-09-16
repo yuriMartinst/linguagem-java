@@ -94,7 +94,7 @@ Revisão sobre a linguagem Java
     * Em diagonal 
   * Utilizar arranjos e matrizes como parâmetros de métodos 
   * Utilizar arranjos e matrizes como retorno de métodos 
-* 10. Tratamento de Exceções
+* 10. [Tratamento de Exceções](10.md)
   * Definição
   * Exceções comuns
     * Divisão por zero
@@ -105,7 +105,7 @@ Revisão sobre a linguagem Java
   * Bloco para capturar diferentes exceções 
   * Bloco finally
   * Lançar uma exceção
-* 11. Métodos estáticos
+* 11. [Métodos estáticos] (11.md)
   * Estrutura de declaração de um método estático
   * Nomes válidos e boas práticas 
   * Parâmetros 
